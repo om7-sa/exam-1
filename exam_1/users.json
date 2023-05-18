@@ -1,0 +1,13 @@
+[
+    {
+        "name" : "omar",
+        "age" : "23",
+        "address" : "Riyadh"
+    },
+
+    { "name" : "faiz",
+    "age": "24",
+    "address":"tabuk"
+
+    }
+]
